@@ -16,3 +16,5 @@ RUN /bin/bash /root/install.sh
 EXPOSE 8080 
 
 CMD ["/bin/bash" , "/root/start.sh"]
+
+#testing to fail
