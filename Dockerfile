@@ -11,7 +11,5 @@ ADD target/log4shell-1.0-SNAPSHOT.war /usr/local/tomcat/webapps/ROOT.war
 
 COPY *.sh /root/
 RUN /bin/bash /root/install.sh
-
 EXPOSE 8080 
-
 CMD ["/bin/bash" , "/root/start.sh"]
