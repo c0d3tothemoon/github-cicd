@@ -18,3 +18,4 @@ EXPOSE 8080
 CMD ["/bin/bash" , "/root/start.sh"]
 
 #testing to fail
+#test2
