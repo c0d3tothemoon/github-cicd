@@ -17,5 +17,5 @@ EXPOSE 8080
 
 CMD ["/bin/bash" , "/root/start.sh"]
 
-#delete at 5:04pm
-#test
+
+#1:35pm
