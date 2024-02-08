@@ -17,5 +17,4 @@ EXPOSE 8080
 
 CMD ["/bin/bash" , "/root/start.sh"]
 
-
-#1:35pm
+#2:45pm
